@@ -4,10 +4,7 @@
 
 <h3> 🎨 NFT minitng 서비스, NFTLIX-NFT-MINT </h3>   
 
-- 이미지 minting API   
-- 이미지 흑백화 API   
-- 이미지 누끼 제작 API   
-- 이미지 nft metadata 생성 API 
+- metadata 기반 nft minting API
 
 
 ## 🪄 Usage
